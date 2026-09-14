@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(pip show *)",
+      "Bash(python _test_run.py)",
+      "Bash(where python *)",
+      "Bash(where py *)",
+      "Bash(py -0)",
+      "Bash(pip list *)",
+      "Read(//c//**)",
+      "Read(//c/Users/jpard/anaconda3/**)",
+      "Read(//c/ProgramData/**)",
+      "Bash(/c/Users/jpard/anaconda3/python.exe \"/c/Users/jpard/AppData/Local/Temp/claude/c--Users-jpard-talleres-ml-lab2/76ac2cde-0a01-4b20-bb74-c251b1e91eaa/scratchpad/test_ridge_lasso.py\")"
+    ]
+  }
+}
